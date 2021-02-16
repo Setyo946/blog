@@ -1,27 +1,21 @@
 ---
 summary: ""
 draft: false
-authors:
-  - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+authors: []
+lastmod: 2020-12-13T00:00:00.000Z
 title: Daerah Istimewa Yogyakarta
 subtitle: ""
 date: 2021-02-16T02:13:42.894Z
 featured: false
-tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+tags: []
+categories: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: ""
+  filename: diy.jpg
 ---
 <!--StartFragment-->
 
